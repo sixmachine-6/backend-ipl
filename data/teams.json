@@ -1,0 +1,212 @@
+[
+  {
+    "name": "Mumbai Indians",
+    "primaryColor": "#004BA0",
+    "secondaryColor": "#EBBF33",
+    "logoUrl": "mi.webp",
+    "logo": "https://www.pngkey.com/png/full/443-4437780_mumbai-indians-logo-all-ipl-teams-logo.png",
+    "products": [
+      {
+        "name": "MI Jersey",
+        "price": 1500,
+        "imageUrl": "tshirt.webp",
+        "description": "Official 2024 MI Jersey - Blue and gold elegance."
+      },
+      {
+        "name": "MI Cap",
+        "price": 500,
+        "imageUrl": "cap.webp",
+        "description": "MI Cap to showcase your team spirit."
+      }
+    ]
+  },
+  {
+    "name": "Chennai Super Kings",
+    "primaryColor": "#FECB00",
+    "secondaryColor": "#005BAC",
+    "logoUrl": "csk.webp",
+    "logo": "https://www.eventstodayz.com/wp-content/uploads/2020/03/CSK-png-logo-2020-hd.png",
+    "products": [
+      {
+        "name": "CSK Jersey",
+        "price": 1500,
+        "imageUrl": "tshirt.webp",
+        "description": "Official 2024 CSK Jersey - Roar like a lion!"
+      },
+      {
+        "name": "CSK Mug",
+        "price": 300,
+        "imageUrl": "mug.webp",
+        "description": "Enjoy your drink with a CSK-themed mug."
+      }
+    ]
+  },
+  {
+    "name": "Royal Challengers Bangalore",
+    "primaryColor": "#DA121A",
+    "secondaryColor": "#000000",
+    "logoUrl": "rcb.webp",
+    "logo": "https://cdn.freelogovectors.net/wp-content/uploads/2023/05/royal-challengers-bangalore-logo-freelogovectors.net_.png",
+    "products": [
+      {
+        "name": "RCB Jersey",
+        "price": 1500,
+        "imageUrl": "tshirt.webp",
+        "description": "Official 2024 RCB Jersey - Bold and Beautiful!"
+      },
+      {
+        "name": "RCB Keychain",
+        "price": 150,
+        "imageUrl": "keychain.webp",
+        "description": "RCB keychain for loyal fans."
+      }
+    ]
+  },
+  {
+    "name": "Kolkata Knight Riders",
+    "primaryColor": "#3A225D",
+    "secondaryColor": "#B59A4F",
+    "logoUrl": "kkr.webp",
+    "logo": "https://i.pinimg.com/originals/7e/5f/d1/7e5fd1378481990f3828500c82a6dde1.png",
+    "products": [
+      {
+        "name": "KKR Jersey",
+        "price": 1500,
+        "imageUrl": "tshirt.webp",
+        "description": "Support KKR with the official team jersey."
+      },
+      {
+        "name": "KKR T-Shirt",
+        "price": 1200,
+        "imageUrl": "tshirt.webp",
+        "description": "Casual KKR T-shirt for fans."
+      }
+    ]
+  },
+  {
+    "name": "Delhi Capitals",
+    "primaryColor": "#004C93",
+    "secondaryColor": "#DA291C",
+    "logoUrl": "dc.webp",
+    "logo": "https://tse1.mm.bing.net/th?id=OIP.EF5uSd-ZCZjWzvYqPXQB5AHaHa&pid=Api&P=0&h=180",
+    "products": [
+      {
+        "name": "DC Jersey",
+        "price": 1500,
+        "imageUrl": "tshirt.webp",
+        "description": "Fly with the Capitals in the official 2024 Jersey."
+      },
+      {
+        "name": "DC Flag",
+        "price": 200,
+        "imageUrl": "flag.webp",
+        "description": "Wave your DC flag with pride!"
+      }
+    ]
+  },
+  {
+    "name": "Sunrisers Hyderabad",
+    "primaryColor": "#F54A05",
+    "secondaryColor": "#000000",
+    "logoUrl": "srh.webp",
+    "logo": "https://www.nsbpictures.com/wp-content/uploads/2019/03/Sunrisers_Hyderabad.svg_.png",
+    "products": [
+      {
+        "name": "SRH Jersey",
+        "price": 1500,
+        "imageUrl": "tshirt.webp",
+        "description": "Burn orange with the official SRH Jersey."
+      },
+      {
+        "name": "SRH Keychain",
+        "price": 100,
+        "imageUrl": "keychain.webp",
+        "description": "Carry your SRH pride wherever you go."
+      }
+    ]
+  },
+  {
+    "name": "Rajasthan Royals",
+    "primaryColor": "#EA1A91",
+    "secondaryColor": "#003399",
+    "logoUrl": "rr.webp",
+    "logo": "https://www.pngall.com/wp-content/uploads/2017/04/Rajasthan-Royals-Logo-PNG.png",
+    "products": [
+      {
+        "name": "RR Jersey",
+        "price": 1500,
+        "imageUrl": "tshirt.webp",
+        "description": "Be royal in the Rajasthan Royals Jersey."
+      },
+      {
+        "name": "RR Cap",
+        "price": 500,
+        "imageUrl": "cap.webp",
+        "description": "RR Cap to show your royal spirit."
+      }
+    ]
+  },
+  {
+    "name": "Punjab Kings",
+    "primaryColor": "#D71920",
+    "secondaryColor": "#A5ACAF",
+    "logoUrl": "pb.webp",
+    "logo": "https://a.espncdn.com/combiner/i?img=%2Fi%2Fteamlogos%2Fcricket%2F500%2F335973.png",
+    "products": [
+      {
+        "name": "PBKS Jersey",
+        "price": 1500,
+        "imageUrl": "tshirt.webp",
+        "description": "Official Punjab Kings Jersey for true fans."
+      },
+      {
+        "name": "PBKS Mug",
+        "price": 300,
+        "imageUrl": "mug.webp",
+        "description": "Drink with pride in a PBKS-themed mug."
+      }
+    ]
+  },
+  {
+    "name": "Lucknow Super Giants",
+    "primaryColor": "#0C264C",
+    "secondaryColor": "#FECB00",
+    "logoUrl": "lsg.webp",
+    "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijb28SNOESbzSkJ5J8-YuxEweSWpHRLhF_uQ5Ceah9b61K8ytbL8fwmK9oMKbM2-ZZxlualj5wlNPlriod0mdrFFXBSx0dj0-_4DQIXwZmGkleqqiIpr0GmV7V8dkYbLXisxjWUPtf4joGikLHSiExgCpaO477APLpjA8_pGhnlvUEAJM4_TvabF85/w400-h225/Original%20Lucknow%20Super%20Giants%20PNG-SVG%20File%20Download%20Free%20Download.png",
+    "products": [
+      {
+        "name": "LSG Jersey",
+        "price": 1500,
+        "imageUrl": "tshirt.webp",
+        "description": "Official Lucknow Super Giants Jersey."
+      },
+      {
+        "name": "LSG Flag",
+        "price": 200,
+        "imageUrl": "flag.webp",
+        "description": "Cheer for LSG with the team flag."
+      }
+    ]
+  },
+  {
+    "name": "Gujarat Titans",
+    "primaryColor": "#1C408C",
+    "secondaryColor": "#D1AB3E",
+    "logoUrl": "gt.webp",
+    "logo": "https://tse4.mm.bing.net/th?id=OIP.QEIvRb7cLrg6MYmdfwnvBgHaHa&pid=Api&P=0&h=180",
+    "products": [
+      {
+        "name": "GT Jersey",
+        "price": 1500,
+        "imageUrl": "tshirt.webp",
+        "description": "Support Gujarat Titans in the official Jersey."
+      },
+      {
+        "name": "GT Cap",
+        "price": 400,
+        "imageUrl": "cap.webp",
+        "description": "Cap off your look with GT's official cap."
+      }
+    ]
+  }
+]
